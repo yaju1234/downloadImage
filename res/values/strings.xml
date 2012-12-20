@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Http URL Connection!</string>
+    <string name="app_name">Http URL Connection A</string>
+	<string name="button01">Download Image</string>
+	<string name="button02">Download Text</string>
+</resources>
